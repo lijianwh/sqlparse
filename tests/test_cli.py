@@ -9,7 +9,7 @@ import sqlparse
 
 # this is just for a try
 # A non-validating SQL parser module for Python
-# A non-validating SQL parser module for Python
+# A non-validating SQL parser moddcdule for Python
 
 def test_cli_main_empty():
     with pytest.raises(SystemExit):
