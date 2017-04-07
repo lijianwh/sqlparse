@@ -7,6 +7,7 @@ import pytest
 
 import sqlparse
 
+# this is just for a try
 
 def test_cli_main_empty():
     with pytest.raises(SystemExit):
