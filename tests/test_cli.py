@@ -10,8 +10,8 @@ import sqlparse
 # this is just for a try
 # A non-validating SQL parser module for Python
 # A non-validating SQL parser moddcdule for Python
-#this is a test branch
-
+#this is a branch branch
+# this is a new line
 def test_cli_main_empty():
     with pytest.raises(SystemExit):
         sqlparse.cli.main([])
